@@ -3,7 +3,7 @@
 My name is Jonas and I am a developer from northern Germany. I've started coding in 7th grade (February 2015) and not stopped ever since. My main language is Java, but I also know some other languages (see below)
 
 ## A few things about me
-- 👨‍🎓 I am currently studying CS at the University of Hamburg and on my way to the bachelor's degree.
+- 👨‍🎓 I am currently studying CS at the University of Hamburg and am on my way to the bachelor's degree.
 - 🏆 A few friends and I founded a startup in June 2020
 - 💻 I'm usually not active here because I'm busy coding for my startup 😅
 - 🔭 Currently I'm working on my startup and some private projects. In the future I hope to work at a bigger software company.
