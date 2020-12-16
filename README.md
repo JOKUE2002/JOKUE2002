@@ -14,8 +14,8 @@ My name is Jonas and I am a developer from northern Germany. I've started coding
 ### IDEs
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Eclipse" width="26px" src="https://img.utdstc.com/icons/eclipse-windows.png:l">
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />
+<!--<img align="left" alt="Eclipse" width="26px" src="https://img.utdstc.com/icons/eclipse-windows.png:l">-->
+<!--<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />-->
 <img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sublime-text/sublime-text.png" />
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/xcode/xcode.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
@@ -64,20 +64,18 @@ My name is Jonas and I am a developer from northern Germany. I've started coding
 
 ### Other Tools
 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 
 <br />
 
 ### Planned to learn
 
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
-<img align="left" alt="Angular JS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
-<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Angular JS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 
 <br />
 
