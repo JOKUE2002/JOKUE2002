@@ -84,3 +84,5 @@ My name is Jonas and I am a developer from northern Germany. I've started coding
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=JOKUE2002&show_icons=true&hide_border=true" />
 
 <img align="left" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOKUE2002&show_icons=true&hide_border=true">
+
+<img align="left" alt="My Time spent" src="https://github-readme-stats.vercel.app/api/wakatime?username=JOKUE2002&show_icons=true&hide_border=true">
