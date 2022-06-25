@@ -6,13 +6,14 @@ My name is Jonas and I am a developer from northern Germany. I've started coding
 - 👨‍🎓 I am currently studying CS at the University of Hamburg and am on my way to the bachelor's degree.
 - 🏆 A few friends and I founded a startup in June 2020
 - 💻 I'm usually not active here because I'm busy coding for my startup 😅
-- 🔭 Currently I'm working on my startup and some private projects. In the future I hope to work at a bigger software company.
-- 🌱 In the mean time, I'm learning 6502 assembly, Commodore Basic, basic algorithms and some python. Don't ask me how I combined those (I have no clue), but it seems to work somehow.
+- 🔭 Currently I'm working on my startup and some private projects. In the future I aim to work at a bigger software company.
+- 🌱 In the mean time, I'm learning 6502 assembly, basic algorithms and some more C. Don't ask me how I combined those (I have no clue), but it seems to work somehow.
 
 ## Languages and Tools I use on a regular basis
 
 ### IDEs
 
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <!--<img align="left" alt="Eclipse" width="26px" src="https://img.utdstc.com/icons/eclipse-windows.png:l">-->
 <!--<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />-->
@@ -33,6 +34,7 @@ My name is Jonas and I am a developer from northern Germany. I've started coding
 ### Desktop Development
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png">
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
@@ -53,12 +55,19 @@ My name is Jonas and I am a developer from northern Germany. I've started coding
 
 <br />
 
+### Retro Development
+
+<img align="left" alt="Assembly" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png">
+<img align="left" alt="Commodore" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Commodore_logo.svg">
+
+<br />
+
 ### Operating Systems of my dev-machines
 
 <img align="left" alt="MacOS X" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png">
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
 <img align="left" alt="Ubuntu (Server + Desktop)" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
-<img align="left" alt="Windows 10" height="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
+<img align="left" alt="Windows 11" height="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
 
 <br />
 
